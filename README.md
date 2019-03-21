@@ -3,7 +3,12 @@
 
 Welcome to the Github of the TEVO Black Widow 3D printer - you find here the latest firmware & documents for your Black Widow. Please take time and have detailed look at the infos provided on this page to be sure to update the correct firmware for your motherboard and version of 3d printer.
 
-
+| Printer           | Black Widow       |
+| ----------------- |:-----------------:|
+| Motherboard v1    | MKS Gen           |
+| Motherboard v2    | MKS Gen L         |
+| Firmware          | Marlin            |
+| Actual Version    | T-BW-X.XXXX       |
 
 
 ## Introduction 
