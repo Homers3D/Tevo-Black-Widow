@@ -38,12 +38,12 @@ Welcome to the Github of the TEVO Black Widow 3D printer - you find here the lat
 
 ## Additional links
 
-- TEVO Black Widow Infos: https://www.tevo.cn/products/3d-printers/tevo-black-widow/
-- TEVO Black Widow FAQ: https://help.tevo.cn/faq-categories/tevo-black-widow/
+- [TEVO Black Widow Infos](https://www.tevo.cn/products/3d-printers/tevo-black-widow/ "TEVO Black Widow Infos")
+- [TEVO Black Widow FAQ](https://help.tevo.cn/faq-categories/tevo-black-widow/ "TEVO Black Widow FAQ")
 
-- TEVO Website: https://www.tevo.cn/
-- TEVO Support: https://help.tevo.cn/
+- [TEVO Website](https://www.tevo.cn/ "Visit TEVO Website")
+- [TEVO Support](https://help.tevo.cn/ "Visit TEVO Support Suite")
 
-- TEVO Official Webshop: https://tevo3dprinterstore.com
-- TEVO Aliexpress Shop: https://tevo.aliexpress.com/store/2010004
-- TEVO Amazon Store: https://www.amazon.com/stores/node/9447801011
+- [TEVO Official Webshop](https://tevo3dprinterstore.com "Visit TEVO Official Webshop")
+- [TEVO Aliexpress Shop](https://tevo.aliexpress.com/store/2010004 "Visit TEVO Aliexpress Shop")
+- [TEVO Amazon Store](https://www.amazon.com/stores/node/9447801011 " Visit TEVO Amazon Store")
